@@ -1,6 +1,6 @@
 #include <avr/io.h>
 #include <avr/interrupt.h>
-#include <SoftwareSerial.h> // Required for communicating with ESP-01S
+#include <SoftwareSerial.h>
 #include <LiquidCrystal.h>
 
 #define LED1 2
